@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "interview-dev",
+      "runtimeExecutable": "node",
+      "runtimeArgs": [".claude/dev-test.js"],
+      "port": 3100
+    }
+  ]
+}
